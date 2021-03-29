@@ -1,0 +1,26 @@
+Image 1:
+
+misclassified - 1
+correct - 44
+unclassified - 1
+
+Image 2:
+
+misclassified - 5
+correct - 19
+unclassified - 13
+bogus - 4
+
+Image 3:
+
+misclassified - 54
+correct - 73
+unclassified - 41
+bogus - 34
+
+Image 4:
+
+misclassified - 32
+correct - 64
+unclassified - 5
+bogus - 0
